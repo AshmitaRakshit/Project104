@@ -1,0 +1,13 @@
+Descriptive Data is the data that gives us imformation.
+Central tendency is a value that identifies the central position within the given data.
+This is also named as summary statistics (finding an average).
+
+Statistics means collection of data.
+Descriptive statistics: mean, median, mode, etc. which describes something about the data.
+
+mean(average)=sum of values / the number of values
+median=the middle value in a data set after arranging in ascending or descending order
+mode=the most occuring value of a data set
+
+Python has a collection module, which has a counter method which counts how many a value is repeated in a data set.
+
